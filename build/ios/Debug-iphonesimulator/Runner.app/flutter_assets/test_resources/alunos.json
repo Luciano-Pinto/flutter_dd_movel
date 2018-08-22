@@ -1,0 +1,290 @@
+[
+  {
+    "numDiario": 1,
+    "codAluno": "1907110-8",
+    "nomeAluno": "ALEC THOMAS RIBEIRO BRADLEY",
+    "isPresent": true
+  },
+  {
+    "numDiario": 2,
+    "codAluno": "1112964-6",
+    "nomeAluno": "ALESSANDRA MARQUES DA COSTA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 3,
+    "codAluno": "1141141-4",
+    "nomeAluno": "ALEXANDRO FERNANDES DE LIMA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 4,
+    "codAluno": "1009852-6",
+    "nomeAluno": "ALFREDO HENRIQUE TRINDADE DIAS",
+    "isPresent": true
+  },
+  {
+    "numDiario": 5,
+    "codAluno": "1096625-0",
+    "nomeAluno": "ALICE MIRANDA DA SILVA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 6,
+    "codAluno": "1465554-3",
+    "nomeAluno": "ALICIA CRISTINE CANIZO FERNANDES",
+    "isPresent": true
+  },
+  {
+    "numDiario": 7,
+    "codAluno": "1470289-4",
+    "nomeAluno": "ANA CLARA QUIRINO MAGALHAES",
+    "isPresent": true
+  },
+  {
+    "numDiario": 8,
+    "codAluno": "1495471-0",
+    "nomeAluno": "ANA LUIZA DE SOUZA COELHO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 9,
+    "codAluno": "1104020-3",
+    "nomeAluno": "ANALICE YASMIN AMANCIO GUERREIRO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 10,
+    "codAluno": "1044855-1",
+    "nomeAluno": "ANDRE VITOR VIEIRA PEREIRA LIMA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 11,
+    "codAluno": "1045603-1",
+    "nomeAluno": "ANDREIA MARTINS DOS SANTOS",
+    "isPresent": true
+  },
+  {
+    "numDiario": 12,
+    "codAluno": "1377279-1",
+    "nomeAluno": "ANNE KEMELY OLIVEIRA DA CUNHA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 13,
+    "codAluno": "1592618-4",
+    "nomeAluno": "ANNE LUIZE REIS SOARES",
+    "isPresent": true
+  },
+  {
+    "numDiario": 14,
+    "codAluno": "1466161-6",
+    "nomeAluno": "ANTONIO VINICIUS QUEIROZ GRECO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 15,
+    "codAluno": "1465499-7",
+    "nomeAluno": "AYLA DOS SANTOS NASCIMENTO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 16,
+    "codAluno": "2410461-2",
+    "nomeAluno": "BIANCA ALVES MAQUINE",
+    "isPresent": true
+  },
+  {
+    "numDiario": 17,
+    "codAluno": "1390901-0",
+    "nomeAluno": "BIANCA DA ENCARNACAO REGO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 18,
+    "codAluno": "2299643-5",
+    "nomeAluno": "BRUNA GABRIELA DA SILVA HOLANDA MATEUS",
+    "isPresent": true
+  },
+  {
+    "numDiario": 19,
+    "codAluno": "1356934-1",
+    "nomeAluno": "BRUNA LAGOA ARANHA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 20,
+    "codAluno": "2419784-0",
+    "nomeAluno": "BRUNA PIMENTEL DA SILVA REIS",
+    "isPresent": true
+  },
+  {
+    "numDiario": 21,
+    "codAluno": "1376010-6",
+    "nomeAluno": "BRUNA VITORIA MARTINS RODRIGUES",
+    "isPresent": true
+  },
+  {
+    "numDiario": 22,
+    "codAluno": "1171205-8",
+    "nomeAluno": "BRUNO BATALHA GUIMARAES",
+    "isPresent": true
+  },
+  {
+    "numDiario": 23,
+    "codAluno": "1592320-7",
+    "nomeAluno": "BRUNO LEVY DE OLIVEIRA CERQUEIRA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 24,
+    "codAluno": "1966586-5",
+    "nomeAluno": "BRUNO NASCIMENTO CARDOSO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 25,
+    "codAluno": "2031247-4",
+    "nomeAluno": "CAIO CESAR MELO DA COSTA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 26,
+    "codAluno": "2303505-6",
+    "nomeAluno": "CALEBE ELIAS BRAZ BULCAO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 27,
+    "codAluno": "1049546-0",
+    "nomeAluno": "CAMILLE VITORIA MAQUINE OLIVEIRA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 28,
+    "codAluno": "1465709-0",
+    "nomeAluno": "CARINY DE AGUIAR PANTOJA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 29,
+    "codAluno": "1465316-8",
+    "nomeAluno": "CARLOS EDUARDO DA CUNHA PEREIRA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 30,
+    "codAluno": "1390868-5",
+    "nomeAluno": "CARLOS GABRIEL SOUZA DE LIMA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 31,
+    "codAluno": "1164958-5",
+    "nomeAluno": "EMERSON VERON SOUSA ALMEIDA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 32,
+    "codAluno": "1044779-2",
+    "nomeAluno": "GABRIELA PRADO SOUZA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 33,
+    "codAluno": "1172772-1",
+    "nomeAluno": "GISELY NOGUEIRA BATISTA DE LIMA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 34,
+    "codAluno": "2311824-5",
+    "nomeAluno": "KARINE DA SILVA ROCHA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 35,
+    "codAluno": "1905574-9",
+    "nomeAluno": "MARIA APARECIDA NUNES MARTINS",
+    "isPresent": true
+  },
+  {
+    "numDiario": 36,
+    "codAluno": "1584446-3",
+    "nomeAluno": "MATHEUS ISAQUE COSTA ALMEIDA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 37,
+    "codAluno": "2134264-4",
+    "nomeAluno": "RANIELE GALVAO DA SILVA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 38,
+    "codAluno": "1380326-3",
+    "nomeAluno": "REBECA DA SILVA COSTA SOUZA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 39,
+    "codAluno": "1142190-8",
+    "nomeAluno": "REBECA DO NASCIMENTO SARAIVA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 40,
+    "codAluno": "1175169-0",
+    "nomeAluno": "RYAN BATISTA DA COSTA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 41,
+    "codAluno": "1766505-1",
+    "nomeAluno": "SARAH SANTANA DE OLIVEIRA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 42,
+    "codAluno": "1048047-1",
+    "nomeAluno": "THAIS DA SILVA VENANCIO",
+    "isPresent": true
+  },
+  {
+    "numDiario": 43,
+    "codAluno": "1627915-8",
+    "nomeAluno": "THAISA INES RODRIGUES DOS SANTOS",
+    "isPresent": true
+  },
+  {
+    "numDiario": 44,
+    "codAluno": "1166967-5",
+    "nomeAluno": "THALITA KAMILLA VITORIA RODRIGUES DE SOUZA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 45,
+    "codAluno": "1123487-3",
+    "nomeAluno": "THAYANE AYRES VIEIRA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 46,
+    "codAluno": "1133585-8",
+    "nomeAluno": "THIAGO MATHEWS RODRIGUES GOMES",
+    "isPresent": true
+  },
+  {
+    "numDiario": 47,
+    "codAluno": "1371984-0",
+    "nomeAluno": "THIAGO RODRIGUES DA ROCHA",
+    "isPresent": true
+  },
+  {
+    "numDiario": 48,
+    "codAluno": "1385294-9",
+    "nomeAluno": "YAN GUILHERME GOES DA SILVA",
+    "isPresent": true
+  }
+]
